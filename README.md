@@ -32,6 +32,8 @@ Note: It's also possible to download the starter template as a zip file from [he
 ### Quick Example
 **Simple counter app**
 
+[![](https://raw.githubusercontent.com/amirhosseinrahmati/try-svelte/master/counter-app.gif)](https://raw.githubusercontent.com/amirhosseinrahmati/try-svelte/master/counter-app.gif)
+
 All of the counter app is in `src\App.svelte` file which is our component. It's very simple to follow. Two main code parts in this file are observable:
 - **score** variable and **addScore**, **removeScore** functions on the top between`<script>...</script>` tags
 - Rest of the code which is HTML combined with Svelte and **blocked CSS** at the end
