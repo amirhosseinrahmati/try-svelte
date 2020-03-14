@@ -7,7 +7,7 @@ Github repository: [https://github.com/sveltejs/svelte](https://github.com/svelt
 
 ------------
 ## What is the Svelte
-Svelte is a component framework but it's not working on Virtual DOM like ReactJS, VueJS. Svelte manages everything at the compile-time. Svelte is a compiler rahter than a framework and it converts all your code into plain JavaScript code. **Cybernetically enhanced web apps!**
+Svelte is a component framework but it's not working on Virtual DOM like ReactJS or VueJS. Svelte manages everything at the compile-time. Svelte is a compiler rahter than a framework and it converts all your code into plain JavaScript code. **Cybernetically enhanced web apps!**
 
 **ُSome features of Svelte **
 - Manipulates the **real DOM** and there is **no Virtual DOM**
