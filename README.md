@@ -38,7 +38,7 @@ All of the counter app is in `src\App.svelte` file which is our component. It's 
 - **score** variable and **addScore**, **removeScore** functions on the top between`<script>...</script>` tags
 - Rest of the code which is HTML combined with Svelte and **blocked CSS** at the end
 
-```javascript
+```html
 <script>
 	let score = 0;
 
@@ -52,7 +52,9 @@ All of the counter app is in `src\App.svelte` file which is our component. It's 
 	<h1>Welcome to Svelte</h1>
 
 	<p class="description">
-	Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app.
+	Svelte is a radical new approach to building user interfaces.
+	Whereas traditional frameworks like React and Vue do the bulk of their work in the browser,
+	Svelte shifts that work into a compile step that happens when you build your app.
 	</p>
 
 	<div class="score-card">
